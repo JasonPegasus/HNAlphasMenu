@@ -21,4 +21,5 @@ As for now (Version 0.5.8) we have the following changes to the game separated i
   <li>No Rotations: Disables engine physic's rotations completely.</li>
 </ol>
 
+<br>
 You can also use the [old deprecated version](https://github.com/JasonPegasus/HNAlpha1Menu).
